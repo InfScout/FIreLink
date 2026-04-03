@@ -2,10 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de969dd2-c3a5-4c41-a8f7-f53d5b6cc0f6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Modularprefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Modularprefab/SM_Window1.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Modularprefab/SM_Window1.prefab.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/OutdoorsScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OutdoorsScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/BiGARCH_ARCH1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/BiGARCH_ARCH1.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/SM_ArchWall 1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/SM_ArchWall 1.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/SM_ArchWall.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/SM_ArchWall.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/SM_Arched_wall.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/SM_Arched_wall.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/SM_BIG_Pillar.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/SM_BIG_Pillar.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/SM_BiggggArch.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/SM_BiggggArch.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/SM_BiggggArchWall.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/SM_BiggggArchWall.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/SM_Coffin.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/SM_Coffin.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/SM_DecoWall.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/SM_DecoWall.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/SM_DoorWframe.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/SM_DoorWframe.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/SM_Floor7.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/SM_Floor7.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/SM_Grave.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/SM_Grave.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/SM_Pillar.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/SM_Pillar.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/SM_PillarTop.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/SM_PillarTop.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/SM_StairR2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/SM_StairR2.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/SM_Tree.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/SM_Tree.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/SM_Wall1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/SM_Wall1.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/SM_WallCrown.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/SM_WallCrown.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/SM_Wall_Trim.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/SM_Wall_Trim.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/SM_Wall_small.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/SM_Wall_small.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/SkyandFogSettingsProfile.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/SkyandFogSettingsProfile.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/modularKit/SM_.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/modularKit/SM_.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/modularKit/SM_ArchWall 1.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/modularKit/SM_ArchWall 1.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/modularKit/SM_Arched_wall.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/modularKit/SM_Arched_wall.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/modularKit/SM_BIG_Pillar.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/modularKit/SM_BIG_Pillar.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/modularKit/SM_BiggggArch.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/modularKit/SM_BiggggArch.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/modularKit/SM_BiggggArchWall.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/modularKit/SM_BiggggArchWall.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/modularKit/SM_Coffin.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/modularKit/SM_Coffin.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/modularKit/SM_DecoWall.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/modularKit/SM_DecoWall.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/modularKit/SM_DoorWframe.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/modularKit/SM_DoorWframe.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/modularKit/SM_Doors.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/modularKit/SM_Doors.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/modularKit/SM_Floor7.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/modularKit/SM_Floor7.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/modularKit/SM_Grave.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/modularKit/SM_Grave.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/modularKit/SM_Pillar.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/modularKit/SM_Pillar.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/modularKit/SM_Pillar33.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/modularKit/SM_Pillar33.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/modularKit/SM_Pillar34.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/modularKit/SM_Pillar34.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/modularKit/SM_PillarTop.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/modularKit/SM_PillarTop.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/modularKit/SM_StairR2.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/modularKit/SM_StairR2.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/modularKit/SM_Wall1.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/modularKit/SM_Wall1.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/modularKit/SM_WallCrown.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/modularKit/SM_WallCrown.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/modularKit/SM_Wall_Trim.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/modularKit/SM_Wall_Trim.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/modularKit/SM_Wall_small.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/modularKit/SM_Wall_small.fbx.meta" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,24 +55,79 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.high-definition@01f8b51ba9fc/Runtime/Material/Lit/Lit.shader" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="3AaqUFg4ELmSoto9FUXAEho5yVh" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity 6000.2.6f2\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath C:\Unitie\FIreLink\FireLinkShrine_DS3 -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Unitie\FIreLink\FireLinkShrine_DS3" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="PTY_MODE" value="Auto" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity 6000.2.6f2\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\Unitie\FIreLink\FireLinkShrine_DS3 -testResults Logs/results.xml -logFile Logs/Editor.log -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Unitie\FIreLink\FireLinkShrine_DS3" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="PTY_MODE" value="Auto" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="useMixedMode" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="useMixedMode" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="de969dd2-c3a5-4c41-a8f7-f53d5b6cc0f6" name="Changes" comment="" />
@@ -41,14 +136,17 @@
       <option name="presentableId" value="Default" />
       <updated>1772841044809</updated>
       <workItem from="1772841046506" duration="603000" />
+      <workItem from="1775173225124" duration="290000" />
     </task>
     <servers />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
     <option name="unityProject" value="true" />
     <option name="unityProjectFolder" value="true" />
   </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
